@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @narendra4009
+- 👋 Hi, I’m @Narendra Miriyala (narendra4009)
 - 👀 I’m interested in Python, Jenkins, Ansible, AWS, HTML, CSS
 - 🌱 I’m currently learning DevOps Tools
 - 💞️ I’m looking to collaborate on Python Projects
