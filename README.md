@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Narendra Miriyala (narendra4009)
-- 👀 I’m interested in Python, Jenkins, Ansible, AWS, HTML, CSS, MySql, Postgre Sql, Linux, WordPress, Zoomla
-- 🌱 I’m currently learning DevOps Tools
+- 👀 I’m interested in Python, Djano, HTML, CSS, Java script, React JS, MySql, Postgre Sql, Linux.
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me: Reach me on : narendracse19@gmail.com
 
